@@ -1,0 +1,4 @@
+.section__title{
+    display: flex;
+    justify-content: flex-end;
+}

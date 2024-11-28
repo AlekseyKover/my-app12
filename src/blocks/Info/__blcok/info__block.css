@@ -1,0 +1,7 @@
+.info__block{
+    max-width: 1200px;
+    display: flex;
+    flex-direction: row;
+    margin: 200px 200px 200px 200px;
+    justify-content: space-between;
+}

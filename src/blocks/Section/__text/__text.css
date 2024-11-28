@@ -1,0 +1,11 @@
+.section__text{
+    max-width: 742px;
+    margin: 210px 444px 20px 413px;
+    display: flex;
+    font-family: Inter221;
+    color: #fff;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 108px;
+    text-align: center;
+}

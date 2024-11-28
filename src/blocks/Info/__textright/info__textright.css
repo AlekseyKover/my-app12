@@ -1,0 +1,5 @@
+.info__textright{
+    display: flex;
+    flex-direction: column;
+    max-width: 570px;
+}

@@ -1,0 +1,7 @@
+.section{
+    max-width: 1600px;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
