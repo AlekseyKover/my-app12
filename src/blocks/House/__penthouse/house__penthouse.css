@@ -1,0 +1,6 @@
+.house__penthouse{
+    max-width: 1030px;
+    margin: 150px auto 0 auto;
+    display:flex;
+    justify-content: space-between
+}

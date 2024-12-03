@@ -1,0 +1,6 @@
+.luxury__block{
+    display: flex;
+    max-width: 1400px;
+    margin: 0 auto;
+    gap: 132px;
+}

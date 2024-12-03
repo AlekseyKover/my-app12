@@ -1,0 +1,6 @@
+.slider__controls {
+  display: flex;
+  align-items: center; /* Выравнивание по вертикали */
+  justify-content: space-between; /* Распределение элементов */
+  margin-top: 20px; /* Добавить отступ сверху, если нужно */
+}

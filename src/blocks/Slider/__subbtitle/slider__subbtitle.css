@@ -1,0 +1,9 @@
+.slider__subbtitle{
+    margin-top: 10px; 
+    font-size: 16px; 
+    text-align: center;
+    color: #555; 
+    text-align: center;
+  margin-top: 10px; /* Отступ от изображения */
+  font-size: 16px; /* Размер текста */
+}

@@ -1,0 +1,7 @@
+.slider__number{
+    font-size: 30px; 
+    font-weight: 400;
+  color: #666; 
+  font-family: Forum;
+  flex-shrink: 0;
+}
