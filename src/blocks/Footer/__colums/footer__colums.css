@@ -1,0 +1,6 @@
+.footer__colums{
+    display: grid;
+   /* grid-template-columns: repeat(auto-fit,minmax(226px,auto));*/
+   grid-template-columns: 226px 224px 529px;
+    grid-template-rows: auto auto auto;
+}

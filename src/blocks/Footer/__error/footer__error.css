@@ -1,0 +1,8 @@
+.footer__error {
+  color: rgba(193, 52, 52, 1);
+  font-size: 12px;
+  margin-top: 5px;
+  line-height: 15.6px;
+  font-weight: 400;
+  font-size: "forum";
+}

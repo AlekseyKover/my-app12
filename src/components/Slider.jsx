@@ -38,7 +38,7 @@ export default function Slider() {
     },
   ];
 
-  const [currentPage, setCurrentPage] = useState(1); 
+  const [currentPage, setCurrentPage] = useState(1);
 
   return (
     <section className="slider">
@@ -52,7 +52,7 @@ export default function Slider() {
               prevEl: ".slider__prev",
             }}
             loop={true}
-            onSlideChange={(swiper) => setCurrentPage(swiper.realIndex + 1)} 
+            onSlideChange={(swiper) => setCurrentPage(swiper.realIndex + 1)}
             className="custom-swiper"
             speed={1000}
             slidesPerView={1.1}
@@ -69,7 +69,6 @@ export default function Slider() {
             ))}
           </Swiper>
 
-      
           <div className="slider__controls">
             <div className="slider__numbers">
               <span className="slider__number">
@@ -77,8 +76,8 @@ export default function Slider() {
               </span>
             </div>
             <p className="slider__subbtitle">
-            {slides[currentPage - 1]?.description}
-          </p>
+              {slides[currentPage - 1]?.description}
+            </p>
             <div className="slider__button">
               <button className="slider__prev">
                 <img src={left} alt="Previous" />
@@ -86,12 +85,8 @@ export default function Slider() {
               <button className="slider__next">
                 <img src={right} alt="Next" />
               </button>
-              
             </div>
           </div>
-
-     
-         
         </div>
       </div>
     </section>

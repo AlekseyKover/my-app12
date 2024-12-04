@@ -1,0 +1,8 @@
+.footer__input {
+  max-width: 356px;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid white;
+  margin-bottom: 40px;
+  color: rgba(255, 255, 255, 1);
+}

@@ -1,0 +1,11 @@
+.footer__infoName {
+  grid-row-start: 1;
+  grid-column-start: 3;
+  margin: 89px 0 0 0;
+  margin-left: 174px;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 36.4px;
+  font-family: "Inter221";
+  color: rgba(255, 255, 255, 1);
+}
